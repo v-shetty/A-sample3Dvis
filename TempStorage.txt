@@ -1,0 +1,1 @@
+MainSM  , NW  , NE  , SW , SE , Heat-Sink , ND-Driver , SD-Driver , LA_TEMP , LA_CUR , PB_TEMP1 , PB_TEMP2 

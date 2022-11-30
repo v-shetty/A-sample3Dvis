@@ -1,0 +1,6 @@
+global-include *.dll
+global-include *.ui
+global-include *.jpg
+global-include *.npy
+include DLL/*dll
+prune venv
